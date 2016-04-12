@@ -1,0 +1,10 @@
+delimitMate
+emmet-vim
+folder_names.txt
+indentLine
+syntastic
+tcomment_vim
+tmuxline.vim
+vim-airline
+vim-airline-themes
+vim-better-whitespace
