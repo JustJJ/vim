@@ -1,8 +1,9 @@
 execute pathogen#infect()
 
-
 syntax enable
 filetype plugin indent on
+
+colorscheme spacegray
 
 set tabstop=4       " number of visual spaces per TAB
 set softtabstop=4   " number of spaces in tab when editing
@@ -30,5 +31,4 @@ let g:syntastic_check_on_wq = 0
 " For indentLine
 let g:indentLine_color_term = 239
 
-let g:airline_theme = 'kolor'
 
